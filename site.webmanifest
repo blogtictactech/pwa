@@ -1,0 +1,22 @@
+{
+    "name": "Tictactech - The simple sophisticated blog",
+    "short_name": "Tictactech",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-g1ybZNUx53s/YRsH6HWLS5I/AAAAAAAAAqE/d2RnH41kPpAw4D1L6jmUEYFHVhRjm638gCLcBGAsYHQ/s192/android-chrome-192x192.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-QDMAdd1GD14/YRsH6Xsk8-I/AAAAAAAAAqM/YXlxKpHEFP0dLcSGZJmUvJmQY7BrlD_5ACLcBGAsYHQ/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://blog.tictactech.io"
+ }
